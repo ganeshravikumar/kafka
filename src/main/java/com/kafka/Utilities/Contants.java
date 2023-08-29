@@ -17,6 +17,6 @@ public class Contants {
     public static String OFFSET_RESET_LATEST="latest";
 
     public static String OFFSET_RESET_EARLIER="earliest";
-
+    public static String OFFSET_RESET_NONE="none";
     public static Integer MAX_POLL_RECORDS=1;
 }
